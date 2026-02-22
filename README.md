@@ -37,7 +37,7 @@ I’m a Data Analyst passionate about turning raw data into actionable insights.
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 ![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)  
 ![TechSpace Data Analytics](https://img.shields.io/badge/TechSpace-Data%20Analytics-FF6F61?style=for-the-badge)  
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+ 
 
 ---
 
