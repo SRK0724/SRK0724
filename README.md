@@ -19,7 +19,6 @@ I’m a Data Analyst passionate about turning raw data into actionable insights.
 
 **Cloud & Other Tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
